@@ -3,6 +3,8 @@ This is my solution to [COMP303 Sample Midterm Winter2016](https://github.com/pr
 All codes in `cards` package are modified based on [Solitaire](https://github.com/prmr/Solitaire), a demonstration application for the software development course at McGill University (COMP 303)
 authored by Professor Martin Robillard([@prmr](https://github.com/prmr)).
 
+For IntelliJ users: `Project from Version Control => https://github.com/Deerhound579/comp303-sample`. 
+
 ## Structure
 
 ```
@@ -22,7 +24,9 @@ authored by Professor Martin Robillard([@prmr](https://github.com/prmr)).
 
 `src`: each package corresponds to a question
 
-I skipped functionalities for `Machine` in `vending_machine`. 
+Run the `Driver` class in every package.
+
+(I skipped functionalities for `Machine` in `vending_machine`)
 
 `test`: Now it only tests `countAces`
 
